@@ -6,8 +6,8 @@
 
 ## 在线体验
 
-- 网页：<https://asuka060108.github.io/全栈开发/>
-- 仓库：<https://github.com/asuka060108/全栈开发>
+- 网页：<https://asuka060108.github.io/quanzhan-kaifa/>
+- 仓库：<https://github.com/asuka060108/quanzhan-kaifa>
 
 ## 故事章节
 

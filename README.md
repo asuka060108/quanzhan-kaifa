@@ -11,6 +11,7 @@
 用 `async/await` 驱动的互动式寻宝动画：机械萤火虫「小烛」带着缺角的星图，穿越风之回廊、唤醒石像守门人、取得月影湖的钥匙，最终找到「星之种」。
 
 - 在线体验：<https://asuka060108.github.io/quanzhan-kaifa/>
+- GitHub 仓库：<https://github.com/asuka060108/quanzhan-kaifa>
 - 项目源码：[exp3](./exp3/)
 - 项目说明：[exp3/README.md](./exp3/README.md)
 

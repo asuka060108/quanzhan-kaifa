@@ -1,0 +1,6 @@
+node_modules/
+client/dist/
+server/data/favorites.json
+*.log
+.DS_Store
+.env
